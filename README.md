@@ -1,27 +1,57 @@
-# CodeCommunityHubFrontend
+# Code Community Hub
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.8.
+**Code Community Hub** es una plataforma web diseñada para conectar empresas con desarrolladores. Las empresas pueden buscar desarrolladores según sus tecnologías dominadas, servicios ofrecidos (freelance), experiencia y disponibilidad, mientras que los desarrolladores pueden mostrar su perfil profesional, incluyendo tarifas por hora, salarios esperados y un enlace a su CV. Además, la plataforma incorpora un chatbot inteligente para asistencia, basado en la API de OpenAI.
 
-## Development server
+## 👨‍💻 Autor
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- **Arturo Carrasco González**
 
-## Code scaffolding
+---
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 📋 Características
 
-## Build
+### Para empresas:
+- Registro de perfiles empresariales.
+- Búsqueda y filtrado de desarrolladores:
+  - Tecnologías dominadas.
+  - Servicios ofrecidos (freelance).
+  - Disponibilidad laboral.
+  - Precio por hora y salario anual esperado.
+- Envío de invitaciones para iniciar contacto.
+- Descarga de CV de desarrolladores previa aceptación de invitaciones.
+- Sistema de mensajería interno para contactar con los desarrolladores que aceptaron las invitaciones.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### Para desarrolladores:
+- Creación de un perfil profesional:
+  - Tecnologías dominadas.
+  - Servicios ofrecidos.
+  - Precio por hora y salario esperado.
+  - Subida de CV.
+  - Estado de disponibilidad laboral.
+- Gestión de invitaciones recibidas de empresas.
+- Comunicación con empresas a través del sistema de mensajería interno.
 
-## Running unit tests
+### Administrador:
+- Validación de perfiles de desarrolladores y empresas.
+- Gestión de usuarios y contenido.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### Funcionalidades adicionales:
+- **Chatbot inteligente**: Ayuda a empresas y desarrolladores con consultas comunes mediante la integración de la API de OpenAI.
+- **Geolocalización**: Uso de la API de Google Maps para localizar empresas y desarrolladores.
+- **Notificaciones por correo**: Implementación de Nodemailer con OAuth2 para enviar notificaciones automáticas desde Gmail.
 
-## Running end-to-end tests
+---
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## 🛠️ Tecnologías utilizadas
 
-## Further help
+- **Frontend**: Angular 18
+- **Backend**: Node.js (con Express)
+- **Base de datos**: MySQL
+- **Estilos**: TailwindCSS
+- **APIs integradas**:
+  - **Google Maps API**: Para geolocalización y visualización en mapas.
+  - **OpenAI API**: Para funcionalidades avanzadas de chatbot.
+  - **Nodemailer con OAuth2 Gmail**: Para envío de notificaciones automáticas por correo.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+---
+
