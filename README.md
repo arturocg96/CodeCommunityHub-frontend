@@ -1,8 +1,8 @@
 # Code Community Hub
 
-**Code Community Hub** es una plataforma que actúa como un **catálogo exclusivo de desarrolladores tecnológicos**. Facilita la conexión entre empresas y desarrolladores, permitiendo a las empresas encontrar y contratar el talento que necesitan de manera rápida, confiable y profesional. Los perfiles de los desarrolladores son cuidadosamente validados y gestionados por administradores que son **reclutadores profesionales**, garantizando calidad y confianza.
+**Code Community Hub** es una plataforma que **ofrece un catálogo exclusivo de desarrolladores tecnológicos listos para ser contratados por empresas**. Proporciona herramientas avanzadas para que las empresas encuentren y contraten al talento ideal de manera rápida, confiable y profesional. Los perfiles de los desarrolladores son cuidadosamente validados y gestionados por administradores que son **reclutadores profesionales**, asegurando un estándar de calidad y confianza.
 
-Además, Code Community Hub ofrece servicios especializados tanto para empresas como para desarrolladores, ayudándoles a alcanzar sus objetivos con eficiencia.
+Además, Code Community Hub ofrece servicios especializados tanto para empresas como para desarrolladores, diseñados para satisfacer sus necesidades específicas de contratación y desarrollo profesional.
 
 ---
 
@@ -15,7 +15,7 @@ Además, Code Community Hub ofrece servicios especializados tanto para empresas 
 ## 📋 Características
 
 ### Para Empresas:
-- Acceso a un catálogo exclusivo de desarrolladores validados.
+- Acceso a un catálogo exclusivo de desarrolladores validados, listos para ser contratados.
 - Búsqueda avanzada según:
   - Tecnologías dominadas.
   - Categoría de experiencia profesional.
@@ -24,7 +24,7 @@ Además, Code Community Hub ofrece servicios especializados tanto para empresas 
 - Servicio personalizado de contratación:
   - Reclutadores profesionales seleccionan al desarrollador ideal según las necesidades específicas de la empresa.
 - Envío de invitaciones para iniciar contacto con desarrolladores.
-- Sistema de mensajería interna con desarrolladores que acepten las invitaciones.
+- Sistema de mensajería interna para comunicarse con los desarrolladores que acepten las invitaciones.
 
 ### Para Desarrolladores:
 - Creación y gestión de un perfil profesional validado, incluyendo:
