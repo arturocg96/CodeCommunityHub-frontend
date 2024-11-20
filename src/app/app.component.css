@@ -1,0 +1,14 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh; 
+    background-color: #121212; 
+    color: #ffffff; 
+  }
+  
+  main {
+    padding-top: 3rem; 
+    padding-bottom: 3rem; 
+  }
+  

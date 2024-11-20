@@ -1,0 +1,23 @@
+<header class="bg-background text-textMain shadow-md py-10">
+    <div class="container mx-auto px-8 flex items-center justify-between">
+      <!-- Logo -->
+      <div class="flex items-center space-x-4">
+        <img src="https://via.placeholder.com/40" alt="Logo" class="w-10 h-10 rounded-full grayscale" />
+        <span class="text-2xl font-bold font-mono">Code Community Hub</span>
+      </div>
+  
+      <!-- Navbar Links -->
+      <nav class="flex space-x-6 text-lg">
+        <span class="hover:text-accent cursor-pointer transition-colors">Registro</span>
+        <span class="hover:text-accent cursor-pointer transition-colors">Área Personal</span>
+        <span class="hover:text-accent cursor-pointer transition-colors">Trabaja con Nosotros</span>
+        
+        <!-- Cerrar Sesión con Lógica Estructurada -->
+        @if (isLoggedIn) {
+          <span class="hover:text-accent cursor-pointer transition-colors">Cerrar Sesión</span>
+        }
+        
+      </nav>
+    </div>
+  </header>
+  
