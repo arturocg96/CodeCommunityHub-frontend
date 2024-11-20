@@ -1,6 +1,6 @@
 # Code Community Hub
 
-**Code Community Hub** es una plataforma web diseñada como un catálogo exclusivo de desarrolladores para empresas tecnológicas. Facilita la conexión entre empresas y desarrolladores, optimizando procesos de búsqueda y selección. Además, ofrece servicios especializados tanto para empresas como para desarrolladores, incluyendo contratación asistida y asesorías profesionales.
+**Code Community Hub** es una plataforma web que actúa como un **catálogo exclusivo de desarrolladores tecnológicos especializados en contrataciones indefinidas**. Proporciona a las empresas acceso a perfiles cuidadosamente validados y puntuados por administradores que son reclutadores profesionales, asegurando calidad y fiabilidad en cada conexión. Además, ofrece servicios personalizados tanto para empresas como para desarrolladores, adaptándose a sus necesidades específicas.
 
 ---
 
@@ -12,54 +12,61 @@
 
 ## 📋 Características
 
-### Para empresas:
-- Registro de perfiles empresariales.
-- Acceso al catálogo de desarrolladores validados.
-- Búsqueda y filtrado según:
+### Para Empresas:
+- Acceso al catálogo exclusivo de desarrolladores validados.
+- Búsqueda y filtrado avanzado según:
   - Tecnologías dominadas.
   - Categoría de experiencia profesional.
-  - Ubicación.
+  - Ubicación geográfica.
   - Salario anual esperado.
 - Servicio de contratación asistida:
-  - Contrata nuestro equipo para encontrar al desarrollador ideal según tus necesidades.
-- Envío de invitaciones para iniciar contacto.
+  - Un equipo de reclutadores profesionales se encarga de buscar y seleccionar al candidato ideal.
+- Envío de invitaciones a desarrolladores para iniciar contacto.
 - Sistema de mensajería interna con desarrolladores que acepten las invitaciones.
 
-### Para desarrolladores:
-- Creación y gestión de perfiles profesionales:
+### Para Desarrolladores:
+- Creación y gestión de un perfil profesional validado, que incluye:
   - Tecnologías dominadas.
   - Categoría de experiencia profesional.
-  - Salario esperado.
-  - Ubicación y estado de disponibilidad laboral.
+  - Salario anual esperado.
+  - Ubicación y disponibilidad laboral.
   - Subida de CV.
-- Solicitudes de asesoría:
+- Acceso a asesorías personalizadas:
   - Asesoría laboral.
   - Asesoría educativa.
 - Gestión de invitaciones recibidas de empresas.
-- Comunicación directa con empresas a través de un sistema de mensajería interna.
+- Comunicación directa con empresas mediante un sistema de mensajería interna.
 
-### Para administradores:
-- Validación de perfiles de desarrolladores y empresas.
-- Gestión de usuarios activos (activación, desactivación, validación).
-- Gestión de solicitudes de asesorías y servicios de contratación.
-- Mantenimiento de la calidad y seguridad de la plataforma.
-
----
-
-## 🛠️ Tecnologías utilizadas
-
-- **Frontend**: Angular 18
-- **Backend**: Node.js (con Express)
-- **Base de datos**: MySQL
-- **Estilos**: TailwindCSS
-- **APIs integradas**:
-  - **OpenAI API**: Para funcionalidades avanzadas como asesorías asistidas y recomendaciones inteligentes.
-  - **Nodemailer**: Para envío de notificaciones automáticas por correo.
+### Para Administradores:
+- Validación y puntuación de perfiles de desarrolladores según su categoría de experiencia.
+- Gestión de usuarios activos, incluyendo activación, desactivación y validación de perfiles.
+- Gestión de solicitudes de asesoría laboral y educativa de desarrolladores.
+- Gestión de servicios de contratación asistida solicitados por empresas.
 
 ---
 
-## 🚀 Funcionalidades adicionales
-- **Validación profesional de perfiles**: Aseguramos la calidad y profesionalismo del catálogo.
-- **Notificaciones personalizadas**: Informamos a los usuarios sobre actividades clave como invitaciones aceptadas o solicitudes procesadas.
-- **Contratación asistida**: Gestionamos y facilitamos la búsqueda de talento ideal para las empresas.
+## 🚀 Funcionalidades Exclusivas
+- **Catálogo Validado:** Perfiles revisados por reclutadores profesionales para garantizar su calidad y fiabilidad.
+- **Contratación Asistida:** Servicio personalizado para encontrar al desarrollador ideal según las necesidades de las empresas.
+- **Asesorías Personalizadas:** Servicios de mentoría laboral y educativa para desarrolladores interesados en potenciar su carrera.
+- **Sistema de Invitaciones y Mensajería Interna:** Conexiones seguras y controladas entre empresas y desarrolladores.
+
+---
+
+## 🛠️ Tecnologías Utilizadas
+
+- **Frontend:** Angular 18
+- **Backend:** Node.js con Express
+- **Base de Datos:** MySQL
+- **Estilos:** TailwindCSS
+- **APIs Integradas:**
+  - **OpenAI API:** Para funcionalidades avanzadas de asistencia y asesoramiento.
+  - **Nodemailer:** Para envío automatizado de notificaciones por correo.
+
+---
+
+## 🌟 ¿Por qué elegir Code Community Hub?
+- **Garantía de calidad:** Reclutadores profesionales validan cada perfil.
+- **Ahorro de tiempo:** Herramientas avanzadas de búsqueda y filtrado.
+- **Conexión personalizada:** Servicios diseñados para satisfacer las necesidades de empresas y desarrolladores.
 
