@@ -1,8 +1,8 @@
 export interface IMensaje {
     id: number;
-    emisorId: number;
-    receptorId: number;
+    emisor_id: number;
+    receptor_id: number;
     contenido: string;
     leido: boolean;
-    fechaEnvio: string;
+    fecha_envio: string;
   }

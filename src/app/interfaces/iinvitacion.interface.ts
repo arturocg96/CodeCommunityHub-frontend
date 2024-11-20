@@ -1,7 +1,7 @@
 export interface IInvitacion {
     id: number;
-    empresaId: number;
-    desarrolladorId: number;
+    empresa_id: number;
+    desarrollador_id: number;
     estado: 'pendiente' | 'aceptada' | 'rechazada';
-    fechaEnvio: string;
+    fecha_envio: string;
   }
