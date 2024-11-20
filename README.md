@@ -1,6 +1,8 @@
 # Code Community Hub
 
-**Code Community Hub** es una plataforma web diseñada para conectar empresas con desarrolladores. Las empresas pueden buscar desarrolladores según sus tecnologías dominadas, servicios ofrecidos (freelance), experiencia y disponibilidad, mientras que los desarrolladores pueden mostrar su perfil profesional, incluyendo tarifas por hora, salarios esperados y un enlace a su CV. Además, la plataforma incorpora un chatbot inteligente para asistencia, basado en la API de OpenAI.
+**Code Community Hub** es una plataforma web diseñada como un catálogo exclusivo de desarrolladores para empresas tecnológicas. Facilita la conexión entre empresas y desarrolladores, optimizando procesos de búsqueda y selección. Además, ofrece servicios especializados tanto para empresas como para desarrolladores, incluyendo contratación asistida y asesorías profesionales.
+
+---
 
 ## 👨‍💻 Autor
 
@@ -12,33 +14,35 @@
 
 ### Para empresas:
 - Registro de perfiles empresariales.
-- Búsqueda y filtrado de desarrolladores:
+- Acceso al catálogo de desarrolladores validados.
+- Búsqueda y filtrado según:
   - Tecnologías dominadas.
-  - Servicios ofrecidos (freelance).
-  - Disponibilidad laboral.
-  - Precio por hora y salario anual esperado.
+  - Categoría de experiencia profesional.
+  - Ubicación.
+  - Salario anual esperado.
+- Servicio de contratación asistida:
+  - Contrata nuestro equipo para encontrar al desarrollador ideal según tus necesidades.
 - Envío de invitaciones para iniciar contacto.
-- Descarga de CV de desarrolladores previa aceptación de invitaciones.
-- Sistema de mensajería interno para contactar con los desarrolladores que aceptaron las invitaciones.
+- Sistema de mensajería interna con desarrolladores que acepten las invitaciones.
 
 ### Para desarrolladores:
-- Creación de un perfil profesional:
+- Creación y gestión de perfiles profesionales:
   - Tecnologías dominadas.
-  - Servicios ofrecidos.
-  - Precio por hora y salario esperado.
+  - Categoría de experiencia profesional.
+  - Salario esperado.
+  - Ubicación y estado de disponibilidad laboral.
   - Subida de CV.
-  - Estado de disponibilidad laboral.
+- Solicitudes de asesoría:
+  - Asesoría laboral.
+  - Asesoría educativa.
 - Gestión de invitaciones recibidas de empresas.
-- Comunicación con empresas a través del sistema de mensajería interno.
+- Comunicación directa con empresas a través de un sistema de mensajería interna.
 
-### Administrador:
+### Para administradores:
 - Validación de perfiles de desarrolladores y empresas.
-- Gestión de usuarios y contenido.
-
-### Funcionalidades adicionales:
-- **Chatbot inteligente**: Ayuda a empresas y desarrolladores con consultas comunes mediante la integración de la API de OpenAI.
-- **Geolocalización**: Uso de la API de Google Maps para localizar empresas y desarrolladores.
-- **Notificaciones por correo**: Implementación de Nodemailer con OAuth2 para enviar notificaciones automáticas desde Gmail.
+- Gestión de usuarios activos (activación, desactivación, validación).
+- Gestión de solicitudes de asesorías y servicios de contratación.
+- Mantenimiento de la calidad y seguridad de la plataforma.
 
 ---
 
@@ -49,9 +53,13 @@
 - **Base de datos**: MySQL
 - **Estilos**: TailwindCSS
 - **APIs integradas**:
-  - **Google Maps API**: Para geolocalización y visualización en mapas.
-  - **OpenAI API**: Para funcionalidades avanzadas de chatbot.
-  - **Nodemailer con OAuth2 Gmail**: Para envío de notificaciones automáticas por correo.
+  - **OpenAI API**: Para funcionalidades avanzadas como asesorías asistidas y recomendaciones inteligentes.
+  - **Nodemailer**: Para envío de notificaciones automáticas por correo.
 
 ---
+
+## 🚀 Funcionalidades adicionales
+- **Validación profesional de perfiles**: Aseguramos la calidad y profesionalismo del catálogo.
+- **Notificaciones personalizadas**: Informamos a los usuarios sobre actividades clave como invitaciones aceptadas o solicitudes procesadas.
+- **Contratación asistida**: Gestionamos y facilitamos la búsqueda de talento ideal para las empresas.
 
