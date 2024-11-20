@@ -1,21 +1,39 @@
-<footer class="bg-background text-textMain py-16">
-    <div class="container mx-auto px-8">
-      <div class="flex flex-col md:flex-row justify-between items-center">
-        <!-- Información del Footer -->
-        <div class="text-center md:text-left mb-4 md:mb-0">
-          <span class="text-lg font-mono font-bold">Code Community Hub</span>
-          <p class="text-sm text-textMain mt-1">
-            &copy; {{ currentYear }}. Todos los derechos reservados.
-          </p>
-        </div>
-  
-        <!-- Enlaces -->
-        <div class="flex space-x-6">
-          <a href="#" class="hover:text-accent transition-colors">Política de Privacidad</a>
-          <a href="#" class="hover:text-accent transition-colors">Términos y Condiciones</a>
-          <a href="#" class="hover:text-accent transition-colors">Contacto</a>
-        </div>
+<footer class="bg-background text-textMain py-10 dark:bg-lightBackground dark:text-lightTextMain">
+  <div class="container mx-auto px-8">
+    <!-- Contenedor del contenido del footer -->
+    <div class="flex flex-col md:flex-row items-center md:justify-between text-center md:text-left">
+      <!-- Información principal del footer -->
+      <div class="mb-6 md:mb-0">
+        <p class="text-lg font-mono font-bold">Code Community Hub</p>
+        <p class="text-sm font-mono mt-1">
+          © {{ currentYear }}. Todos los derechos reservados.
+        </p>
+      </div>
+
+      <!-- Enlaces del footer -->
+      <div class="flex space-x-6 font-mono">
+        <a
+          href="#"
+          class="transition-colors text-textMain hover:text-linkHoverDark 
+          dark:text-lightTextMain dark:hover:text-linkHoverLight"
+        >
+          Política de Privacidad
+        </a>
+        <a
+          href="#"
+          class="transition-colors text-textMain hover:text-linkHoverDark 
+          dark:text-lightTextMain dark:hover:text-linkHoverLight"
+        >
+          Términos y Condiciones
+        </a>
+        <a
+          href="#"
+          class="transition-colors text-textMain hover:text-linkHoverDark 
+          dark:text-lightTextMain dark:hover:text-linkHoverLight"
+        >
+          Contacto
+        </a>
       </div>
     </div>
-  </footer>
-  
+  </div>
+</footer>
