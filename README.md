@@ -1,6 +1,8 @@
 # Code Community Hub
 
-**Code Community Hub** es una plataforma web que actúa como un **catálogo exclusivo de desarrolladores tecnológicos especializados en contrataciones indefinidas**. Proporciona a las empresas acceso a perfiles cuidadosamente validados y puntuados por administradores que son reclutadores profesionales, asegurando calidad y fiabilidad en cada conexión. Además, ofrece servicios personalizados tanto para empresas como para desarrolladores, adaptándose a sus necesidades específicas.
+**Code Community Hub** es una plataforma que actúa como un **catálogo exclusivo de desarrolladores tecnológicos**. Facilita la conexión entre empresas y desarrolladores, permitiendo a las empresas encontrar y contratar el talento que necesitan de manera rápida, confiable y profesional. Los perfiles de los desarrolladores son cuidadosamente validados y gestionados por administradores que son **reclutadores profesionales**, garantizando calidad y confianza.
+
+Además, Code Community Hub ofrece servicios especializados tanto para empresas como para desarrolladores, ayudándoles a alcanzar sus objetivos con eficiencia.
 
 ---
 
@@ -13,43 +15,43 @@
 ## 📋 Características
 
 ### Para Empresas:
-- Acceso al catálogo exclusivo de desarrolladores validados.
-- Búsqueda y filtrado avanzado según:
+- Acceso a un catálogo exclusivo de desarrolladores validados.
+- Búsqueda avanzada según:
   - Tecnologías dominadas.
   - Categoría de experiencia profesional.
   - Ubicación geográfica.
   - Salario anual esperado.
-- Servicio de contratación asistida:
-  - Un equipo de reclutadores profesionales se encarga de buscar y seleccionar al candidato ideal.
-- Envío de invitaciones a desarrolladores para iniciar contacto.
+- Servicio personalizado de contratación:
+  - Reclutadores profesionales seleccionan al desarrollador ideal según las necesidades específicas de la empresa.
+- Envío de invitaciones para iniciar contacto con desarrolladores.
 - Sistema de mensajería interna con desarrolladores que acepten las invitaciones.
 
 ### Para Desarrolladores:
-- Creación y gestión de un perfil profesional validado, que incluye:
+- Creación y gestión de un perfil profesional validado, incluyendo:
   - Tecnologías dominadas.
   - Categoría de experiencia profesional.
   - Salario anual esperado.
   - Ubicación y disponibilidad laboral.
-  - Subida de CV.
-- Acceso a asesorías personalizadas:
-  - Asesoría laboral.
-  - Asesoría educativa.
+  - Subida de CV para revisión de empresas interesadas.
+- Solicitudes de asesorías personalizadas:
+  - Asesoría laboral para optimizar su perfil profesional.
+  - Asesoría educativa para mejorar habilidades clave.
 - Gestión de invitaciones recibidas de empresas.
-- Comunicación directa con empresas mediante un sistema de mensajería interna.
+- Comunicación directa con empresas a través de mensajería interna.
 
 ### Para Administradores:
-- Validación y puntuación de perfiles de desarrolladores según su categoría de experiencia.
-- Gestión de usuarios activos, incluyendo activación, desactivación y validación de perfiles.
-- Gestión de solicitudes de asesoría laboral y educativa de desarrolladores.
-- Gestión de servicios de contratación asistida solicitados por empresas.
+- Validación y puntuación de perfiles de desarrolladores según su experiencia profesional.
+- Activación y desactivación de usuarios (empresas y desarrolladores).
+- Gestión de solicitudes de asesorías laborales y educativas de desarrolladores.
+- Gestión de servicios personalizados de contratación solicitados por empresas.
 
 ---
 
 ## 🚀 Funcionalidades Exclusivas
-- **Catálogo Validado:** Perfiles revisados por reclutadores profesionales para garantizar su calidad y fiabilidad.
-- **Contratación Asistida:** Servicio personalizado para encontrar al desarrollador ideal según las necesidades de las empresas.
-- **Asesorías Personalizadas:** Servicios de mentoría laboral y educativa para desarrolladores interesados en potenciar su carrera.
-- **Sistema de Invitaciones y Mensajería Interna:** Conexiones seguras y controladas entre empresas y desarrolladores.
+- **Catálogo Validado:** Garantizamos perfiles revisados por reclutadores profesionales.
+- **Contratación Personalizada:** Servicio completo para empresas que buscan optimizar su proceso de selección.
+- **Asesorías Profesionales:** Servicios de apoyo laboral y educativo para desarrolladores.
+- **Sistema Seguro de Invitaciones y Mensajería Interna:** Facilita conexiones directas y controladas entre empresas y desarrolladores.
 
 ---
 
@@ -60,13 +62,12 @@
 - **Base de Datos:** MySQL
 - **Estilos:** TailwindCSS
 - **APIs Integradas:**
-  - **OpenAI API:** Para funcionalidades avanzadas de asistencia y asesoramiento.
-  - **Nodemailer:** Para envío automatizado de notificaciones por correo.
+  - **OpenAI API:** Para asistencia avanzada y recomendaciones.
+  - **Nodemailer:** Para notificaciones automáticas por correo.
 
 ---
 
-## 🌟 ¿Por qué elegir Code Community Hub?
-- **Garantía de calidad:** Reclutadores profesionales validan cada perfil.
-- **Ahorro de tiempo:** Herramientas avanzadas de búsqueda y filtrado.
-- **Conexión personalizada:** Servicios diseñados para satisfacer las necesidades de empresas y desarrolladores.
-
+## 🌟 Beneficios de Code Community Hub
+- **Confianza:** Todos los perfiles son validados por reclutadores profesionales.
+- **Eficiencia:** Herramientas avanzadas de búsqueda y servicios personalizados.
+- **Conexiones directas:** Empresas y desarrolladores conectan sin intermediarios innecesarios.
